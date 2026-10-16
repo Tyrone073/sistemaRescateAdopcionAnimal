@@ -1,0 +1,188 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="8T-DSgsJftAxiY8-Vut2">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EwS9imfDXFD4ILlwnA45-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="550" width="760" x="190" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-5" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Sistema de Control de Rescate y Adopción Animal" vertex="1">
+          <mxGeometry height="60" width="320" x="391.53" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-6" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#f0a30a;strokeColor=#BD7000;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=6;autosizeText=1;fontSize=6;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Sistema -&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;line-height: 107%; font-family: Arial, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Diagrama de caso de usos&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="210" x="465" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-19" edge="1" parent="1" source="EwS9imfDXFD4ILlwnA45-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);endArrow=none;endFill=0;" target="EwS9imfDXFD4ILlwnA45-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-22" edge="1" parent="1" source="EwS9imfDXFD4ILlwnA45-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);endArrow=none;endFill=0;" target="EwS9imfDXFD4ILlwnA45-20">
+          <mxGeometry relative="1" x="-0.0982" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-7" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Ciudadano/Reportante" vertex="1">
+          <mxGeometry height="60" width="30" x="100" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Administrador del refugio" vertex="1">
+          <mxGeometry height="60" width="30" x="1020" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-37" edge="1" parent="1" source="EwS9imfDXFD4ILlwnA45-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);endArrow=none;endFill=0;" target="EwS9imfDXFD4ILlwnA45-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-38" edge="1" parent="1" source="EwS9imfDXFD4ILlwnA45-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);endArrow=none;endFill=0;" target="EwS9imfDXFD4ILlwnA45-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-39" edge="1" parent="1" source="EwS9imfDXFD4ILlwnA45-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);endArrow=none;endFill=0;" target="EwS9imfDXFD4ILlwnA45-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-40" edge="1" parent="1" source="EwS9imfDXFD4ILlwnA45-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);endArrow=none;endFill=0;" target="EwS9imfDXFD4ILlwnA45-30">
+          <mxGeometry relative="1" x="-0.0001" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-9" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Voluntario/Veterinario" vertex="1">
+          <mxGeometry height="60" width="30" x="90" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-16" edge="1" parent="1" source="EwS9imfDXFD4ILlwnA45-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);dashed=1;" target="EwS9imfDXFD4ILlwnA45-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0R-WT7qmc3-p0hitDnpa-1" connectable="0" parent="EwS9imfDXFD4ILlwnA45-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;strokeColor=light-dark(#000000,#000000);" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0286" as="geometry">
+            <mxPoint x="1" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0R-WT7qmc3-p0hitDnpa-4" connectable="0" parent="EwS9imfDXFD4ILlwnA45-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;strokeColor=light-dark(#000000,#000000);" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0286" as="geometry">
+            <mxPoint x="-12" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0R-WT7qmc3-p0hitDnpa-5" connectable="0" parent="EwS9imfDXFD4ILlwnA45-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;strokeColor=light-dark(#000000,#000000);" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0286" as="geometry">
+            <mxPoint x="-4" y="230" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0R-WT7qmc3-p0hitDnpa-6" connectable="0" parent="EwS9imfDXFD4ILlwnA45-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;strokeColor=light-dark(#000000,#000000);" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0286" as="geometry">
+            <mxPoint x="6" y="320" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0R-WT7qmc3-p0hitDnpa-7" connectable="0" parent="EwS9imfDXFD4ILlwnA45-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;strokeColor=light-dark(#000000,#000000);" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0286" as="geometry">
+            <mxPoint x="6" y="370" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0R-WT7qmc3-p0hitDnpa-8" connectable="0" parent="EwS9imfDXFD4ILlwnA45-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;strokeColor=light-dark(#000000,#000000);" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0286" as="geometry">
+            <mxPoint x="366" y="200" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0R-WT7qmc3-p0hitDnpa-9" connectable="0" parent="EwS9imfDXFD4ILlwnA45-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;strokeColor=light-dark(#000000,#000000);" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0286" as="geometry">
+            <mxPoint x="-1" y="120" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0R-WT7qmc3-p0hitDnpa-10" connectable="0" parent="EwS9imfDXFD4ILlwnA45-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;strokeColor=light-dark(#000000,#000000);" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0286" as="geometry">
+            <mxPoint x="-4" y="415" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-18" edge="1" parent="1" source="EwS9imfDXFD4ILlwnA45-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=light-dark(#000000,#000000);exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="EwS9imfDXFD4ILlwnA45-17">
+          <mxGeometry relative="1" x="-0.1097" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Registrar caso de rescate" vertex="1">
+          <mxGeometry height="50" width="130" x="240" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Clasificar especie del animal" vertex="1">
+          <mxGeometry height="60" width="130" x="440" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Generar Expediente según la especie" vertex="1">
+          <mxGeometry height="60" width="120" x="445" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-23" edge="1" parent="1" source="EwS9imfDXFD4ILlwnA45-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);dashed=1;" target="EwS9imfDXFD4ILlwnA45-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Consultar estado del reporte" vertex="1">
+          <mxGeometry height="50" width="130" x="240" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Recibir notificación de actualizacion" vertex="1">
+          <mxGeometry height="60" width="130" x="435" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-33" edge="1" parent="1" source="EwS9imfDXFD4ILlwnA45-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=light-dark(#000000,#000000);" target="EwS9imfDXFD4ILlwnA45-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Consultar casos asignados" vertex="1">
+          <mxGeometry height="60" width="130" x="240" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-34" edge="1" parent="1" source="EwS9imfDXFD4ILlwnA45-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=light-dark(#000000,#000000);" target="EwS9imfDXFD4ILlwnA45-31">
+          <mxGeometry relative="1" x="0.0169" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Registrar atención al anumal" vertex="1">
+          <mxGeometry height="60" width="130" x="240" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-36" edge="1" parent="1" source="EwS9imfDXFD4ILlwnA45-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.919;exitY=0.775;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;strokeColor=light-dark(#000000,#000000);" target="EwS9imfDXFD4ILlwnA45-30">
+          <mxGeometry relative="1" x="-0.071" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Actualizar estado del caso" vertex="1">
+          <mxGeometry height="60" width="130" x="240" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Recibir notificación de nuevos rescates" vertex="1">
+          <mxGeometry height="60" width="130" x="435" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-35" edge="1" parent="1" source="EwS9imfDXFD4ILlwnA45-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=light-dark(#000000,#000000);" target="EwS9imfDXFD4ILlwnA45-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Actualizar historial del caso" vertex="1">
+          <mxGeometry height="60" width="130" x="440" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Ver información del animal" vertex="1">
+          <mxGeometry height="60" width="130" x="440" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Consultar casos" vertex="1">
+          <mxGeometry height="60" width="130" x="620" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-42" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Asignar responsables&lt;br&gt;(volunarios/veterinarios)" vertex="1">
+          <mxGeometry height="70" width="150" x="610" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-47" edge="1" parent="1" source="EwS9imfDXFD4ILlwnA45-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);dashed=1;" target="EwS9imfDXFD4ILlwnA45-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-43" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Gestionar expedientes" vertex="1">
+          <mxGeometry height="60" width="130" x="620" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-44" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Actualizar información del animal" vertex="1">
+          <mxGeometry height="60" width="130" x="790" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-45" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Supervisar estados de los casos" vertex="1">
+          <mxGeometry height="60" width="130" x="620" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-51" edge="1" parent="1" source="EwS9imfDXFD4ILlwnA45-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#000000);" target="EwS9imfDXFD4ILlwnA45-8">
+          <mxGeometry relative="1" x="0.0112" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-46" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Generar reportes" vertex="1">
+          <mxGeometry height="60" width="130" x="620" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-48" edge="1" parent="1" source="EwS9imfDXFD4ILlwnA45-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#000000);" target="EwS9imfDXFD4ILlwnA45-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-49" edge="1" parent="1" source="EwS9imfDXFD4ILlwnA45-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=light-dark(#000000,#000000);" target="EwS9imfDXFD4ILlwnA45-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-50" edge="1" parent="1" source="EwS9imfDXFD4ILlwnA45-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#000000);" target="EwS9imfDXFD4ILlwnA45-8">
+          <mxGeometry relative="1" x="-0.0363" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EwS9imfDXFD4ILlwnA45-52" edge="1" parent="1" source="EwS9imfDXFD4ILlwnA45-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#000000,#000000);" target="EwS9imfDXFD4ILlwnA45-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

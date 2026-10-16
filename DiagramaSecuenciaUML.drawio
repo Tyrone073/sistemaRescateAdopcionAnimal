@@ -1,0 +1,208 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="ZpTN7H85XxMPdaDP6d9O">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-4" edge="1" parent="1" source="QoBTjSdsbPbI8_DrXB99-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="QoBTjSdsbPbI8_DrXB99-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Veterinario" vertex="1">
+          <mxGeometry height="60" width="30" x="370" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Veterinario" vertex="1">
+          <mxGeometry height="60" width="30" x="370" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-18" edge="1" parent="1" source="QoBTjSdsbPbI8_DrXB99-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="QoBTjSdsbPbI8_DrXB99-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-5" parent="1" style="html=1;whiteSpace=wrap;" value="GestorCasos" vertex="1">
+          <mxGeometry height="50" width="110" x="500" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-19" edge="1" parent="1" source="QoBTjSdsbPbI8_DrXB99-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="QoBTjSdsbPbI8_DrXB99-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-6" parent="1" style="html=1;whiteSpace=wrap;" value="AnimalFactory" vertex="1">
+          <mxGeometry height="50" width="110" x="660" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-20" edge="1" parent="1" source="QoBTjSdsbPbI8_DrXB99-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="QoBTjSdsbPbI8_DrXB99-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-7" parent="1" style="html=1;whiteSpace=wrap;" value="CasoRescate" vertex="1">
+          <mxGeometry height="50" width="110" x="820" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-21" edge="1" parent="1" source="QoBTjSdsbPbI8_DrXB99-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="QoBTjSdsbPbI8_DrXB99-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-8" parent="1" style="html=1;whiteSpace=wrap;" value="Expediente" vertex="1">
+          <mxGeometry height="50" width="110" x="980" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-22" edge="1" parent="1" source="QoBTjSdsbPbI8_DrXB99-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="QoBTjSdsbPbI8_DrXB99-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-10" parent="1" style="html=1;whiteSpace=wrap;" value="Notificador" vertex="1">
+          <mxGeometry height="50" width="110" x="1140" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-12" parent="1" style="html=1;whiteSpace=wrap;" value="GestorCasos" vertex="1">
+          <mxGeometry height="50" width="110" x="500" y="1015" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-13" parent="1" style="html=1;whiteSpace=wrap;" value="AnimalFactory" vertex="1">
+          <mxGeometry height="50" width="110" x="660" y="1015" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-14" parent="1" style="html=1;whiteSpace=wrap;" value="CasoRescate" vertex="1">
+          <mxGeometry height="50" width="110" x="820" y="1015" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-15" parent="1" style="html=1;whiteSpace=wrap;" value="Expediente" vertex="1">
+          <mxGeometry height="50" width="110" x="980" y="1015" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-16" parent="1" style="html=1;whiteSpace=wrap;" value="Notificador" vertex="1">
+          <mxGeometry height="50" width="110" x="1140" y="1015" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-27" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" value="registrarCaso(datos)">
+          <mxGeometry relative="1" x="-0.3023" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="120" y="160" as="sourcePoint" />
+            <mxPoint x="550" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-29" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" value="crearAnimal(especie)">
+          <mxGeometry relative="1" x="-0.6" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="560" y="200" as="sourcePoint" />
+            <mxPoint x="710" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-31" edge="1" parent="1" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;startArrow=block;startFill=1;dashed=1;" value="devolverAnimal()">
+          <mxGeometry relative="1" x="-0.6" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="560" y="240" as="sourcePoint" />
+            <mxPoint x="710" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-32" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" value="registrar(animal, ubicacion, fecha)">
+          <mxGeometry relative="1" x="-0.5484" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="560" y="290" as="sourcePoint" />
+            <mxPoint x="870" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-33" edge="1" parent="1" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;startArrow=block;startFill=1;dashed=1;" value="confirmarRegistro()">
+          <mxGeometry relative="1" x="-0.2558" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="120" y="490" as="sourcePoint" />
+            <mxPoint x="550" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-34" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" value="crearExpediente(animal)">
+          <mxGeometry relative="1" x="-0.2766" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="560" y="335" as="sourcePoint" />
+            <mxPoint x="1030" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-35" edge="1" parent="1" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;startArrow=block;startFill=1;dashed=1;" value="notificacionNuevoCaso(caso)">
+          <mxGeometry relative="1" x="-0.0426" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="250" y="440" as="sourcePoint" />
+            <mxPoint x="1190" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-36" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" value="notificarNuevoRescate(caso)">
+          <mxGeometry relative="1" x="-0.2381" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="560" y="390" as="sourcePoint" />
+            <mxPoint x="1190" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-45" edge="1" parent="1" source="QoBTjSdsbPbI8_DrXB99-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="QoBTjSdsbPbI8_DrXB99-47" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-46" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Voluntario" vertex="1">
+          <mxGeometry height="60" width="30" x="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-47" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Voluntario" vertex="1">
+          <mxGeometry height="60" width="30" x="230" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-48" edge="1" parent="1" source="QoBTjSdsbPbI8_DrXB99-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="QoBTjSdsbPbI8_DrXB99-50" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-49" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Administrador del refugio" vertex="1">
+          <mxGeometry height="60" width="30" x="100" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-50" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Administrador del refugio" vertex="1">
+          <mxGeometry height="60" width="30" x="100" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-52" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" value="asignarResponsable(caso, voluntario)">
+          <mxGeometry relative="1" x="-0.3488" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="110" y="540" as="sourcePoint" />
+            <mxPoint x="540" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-53" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" value="actualizarAsignacion(voluntario)">
+          <mxGeometry relative="1" x="-0.5484" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="560" y="590" as="sourcePoint" />
+            <mxPoint x="870" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-54" edge="1" parent="1" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;startArrow=block;startFill=1;dashed=1;" value="casoAsignado(caso)">
+          <mxGeometry relative="1" x="-0.3333" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="250" y="630" as="sourcePoint" />
+            <mxPoint x="550" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-55" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" value="registrarAtencion(caso, observaciones)">
+          <mxGeometry relative="1" x="-0.5333" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="250" y="680" as="sourcePoint" />
+            <mxPoint x="550" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-56" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" value="agregarRegistro(observaciones)">
+          <mxGeometry relative="1" x="-0.3191" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="560" y="730" as="sourcePoint" />
+            <mxPoint x="1030" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-57" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" value="solicitarEvaluacion(caso)">
+          <mxGeometry relative="1" x="-1" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="250" y="780" as="sourcePoint" />
+            <mxPoint x="380" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-58" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" value="registrarEvaluacion(caso, diagnostico)">
+          <mxGeometry relative="1" x="-1" y="32" as="geometry">
+            <mxPoint x="-10" y="2" as="offset" />
+            <mxPoint x="390" y="830" as="sourcePoint" />
+            <mxPoint x="550" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-60" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" value="agregarRegistro(diagnostico)">
+          <mxGeometry relative="1" x="-0.3191" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="560" y="890" as="sourcePoint" />
+            <mxPoint x="1030" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-62" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" value="actualizarEstado(&quot;En tratamiento&quot;)">
+          <mxGeometry relative="1" x="-0.4839" y="32" as="geometry">
+            <mxPoint x="-10" y="2" as="offset" />
+            <mxPoint x="560" y="950" as="sourcePoint" />
+            <mxPoint x="870" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoBTjSdsbPbI8_DrXB99-63" edge="1" parent="1" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;startArrow=block;startFill=1;dashed=1;" value="confirmarActualizacion()">
+          <mxGeometry relative="1" x="-0.625" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="390" y="990" as="sourcePoint" />
+            <mxPoint x="550" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

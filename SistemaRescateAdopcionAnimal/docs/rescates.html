@@ -1,11 +1,71 @@
 <!doctype html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Document</title>
+<!--    <meta name="viewport" content="width=device-width, initial-scale=1">1-->
+    <title>Sistema de Control de Rescate y Adopcion - Estado de rescates</title>
 </head>
 <body>
+
+<header>
+    <h1>Sistema de Control de Rescate y Adopción Animal</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html" target="_blank">Inicio</a></li><!-- target -blank abre nueva pagina al ingresar en el enlace-->
+            <li><a href="reportar.html" target="_blank">Reportar Rescate</a></li>
+            <li><a href="rescates.html" target="_blank">Ver Rescates</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h2>Listado Organizado de Casos Registrados</h2>
+        <p>A continuación se presentan los registros de animales reportados y su estado actual.</p>
+
+        <!-- datos de prueba ingresados manualmente; no es una tabla dinamica ni conectada a BD -->
+        <table border="1"><!-- table crea la estructura de la tabla, border="1" le añade un borde visible -->
+            <caption>Registro General de Rescates</caption><!-- caption es el titulo visible de la tabla -->
+
+            <thead><!-- thead agrupa las filas del encabezado de la tabla -->
+            <tr><!-- tr define una fila en la tabla -->
+                <th>Código</th><!-- th define una celda de encabezado (texto en negrita y centrado por defecto) -->
+                <th>Título / Nombre Provisional</th>
+                <th>Categoría</th>
+                <th>Urgencia Médica</th>
+                <th>Estado Actual</th>
+            </tr>
+            </thead>
+
+            <tbody><!-- tbody agrupa las filas con el contenido o el cuerpo de la tabla -->
+            <tr>
+                <td>001</td><!-- td define una celda de datos normal -->
+                <td>Caso Firulais</td>
+                <td>Perros</td>
+                <td>Alta</td>
+                <td>En Veterinaria</td>
+            </tr>
+            <tr>
+                <td>002</td>
+                <td>Michi Centro</td>
+                <td>Gatos</td>
+                <td>Media</td>
+                <td>En Albergue</td>
+            </tr>
+            <tr>
+                <td>003</td>
+                <td>Búho Lechuza</td>
+                <td>Fauna Silvestre</td>
+                <td>Baja</td>
+                <td>Liberado</td>
+            </tr>
+            </tbody>
+        </table>
+    </section>
+</main>
+<footer>
+    <p>Prototipo Web para el Sistema de Control de Rescate y Adopción. <br>Diseño realizado con fines educativos para la asignatura Desarrollo de Sistema Informáticos * UTM * 2026.</p>
+</footer>
 
 </body>
 </html>

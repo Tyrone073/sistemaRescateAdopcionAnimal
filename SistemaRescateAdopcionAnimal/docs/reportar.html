@@ -1,11 +1,112 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Document</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1"><!-- viewport adapta el tamaño de la pagina a pantallas moviles -->
+    <title>Sistema de Control de Rescate y Adopción - Reportar</title>
 </head>
 <body>
+
+<header>
+    <h1>Sistema de Control de Rescate y Adopción Animal</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html" target="_blank">Inicio</a></li><!-- target -blank abre nueva pagina al ingresar en el enlace-->
+            <li><a href="reportar.html" target="_blank">Reportar Rescate</a></li>
+            <li><a href="rescates.html" target="_blank">Ver Rescates</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h2>Formulario de Reporte de Rescate</h2>
+        <p>Por favor complete el siguiente formulario con la información precisa sobre el animal en riesgo.</p>
+
+        <form action="#" method="post"><!-- formulario q envia los datos con el metodo post (metodos CRUD)-->
+            <fieldset>
+                <legend>Información del Rescatista / Reportante</legend><!-- titulo del fieldset-->
+
+                <!-- for conecta la etiqueta label con el id del input-->
+                <label for="nombreReportante">Nombre Completo:</label>
+                <br>
+                <input type="text" id="nombreReportante" name="nombre_reportante" required placeholder="Ej. Tyrone Pilay"><!-- required exige llenar el campo antes de enviar, placeholder muestra un texto de ejemplo -->
+                <br><br>
+
+                <label for="correoReportante">Correo Electrónico:</label>
+                <br>
+                <input type="email" id="correoReportante" name="correo_reportante" required placeholder="ejemplo@correo.com">
+                <br><br>
+
+                <label for="telefonoReportante">Teléfono de Contacto:</label>
+                <br>
+                <input type="tel" id="telefonoReportante" name="telefono_reportante" required placeholder="099 3456 78">
+                <br><br>
+            </fieldset>
+
+            <fieldset>
+                <legend>Detalles del Rescate</legend>
+
+                <label for="tituloCaso">Título del Caso / Nombre Provisional:</label>
+                <br>
+                <input type="text" id="tituloCaso" name="titulo_caso" required placeholder="Ej. Perro rescatado en Av. Central">
+                <br><br>
+
+                <label for="tipoAnimal">Categoría del Animal:</label>
+                <br>
+                <select id="tipoAnimal" name="tipo_animal" required><!-- select crea una lista desplegable de opciones -->
+                    <option value="">-- Seleccione una opción --</option>
+                    <option value="perros">Perros</option>
+                    <option value="gatos">Gatos</option>
+                    <option value="fauna_silvestre">Fauna Silvestre</option>
+                </select>
+                <br><br>
+
+                <p>Nivel de Urgencia Médica:</p>
+                <input type="radio" id="urgenciaAlta" name="urgencia" value="alta" required><!-- type="radio" permite seleccionar solo una opcion del grupo con el mismo name -->
+                <label for="urgenciaAlta">Alta</label><br>
+                <input type="radio" id="urgenciaMedia" name="urgencia" value="media">
+                <label for="urgenciaMedia">Media</label><br>
+                <input type="radio" id="urgenciaBaja" name="urgencia" value="baja">
+                <label for="urgenciaBaja">Baja</label>
+                <br><br>
+
+                <label for="fechaRescate">Fecha del Incidente/Reporte:</label>
+                <br>
+                <input type="date" id="fechaRescate" name="fecha_rescate" required><!-- este input no necesita placeholder porq ese tipo ya lo incorpora-->
+                <br><br>
+
+                <label for="ubicacion">Ubicación / Dirección del Hallazgo:</label>
+                <br>
+                <input type="text" id="ubicacion" name="ubicacion" required placeholder="Calle, ciudad o referencia">
+                <br><br>
+
+                <label for="estadoSalud">Estado de Salud Inicial:</label>
+                <br>
+                <select id="estadoSalud" name="estado_salud" required>
+                    <option value="">-- Seleccione el estado --</option>
+                    <option value="bueno">Bueno / Estable</option>
+                    <option value="herido">Herido / Requiere atención urgente</option>
+                    <option value="desnutrido">Desnutrido</option>
+                    <option value="critico">Crítico</option>
+                </select>
+                <br><br>
+
+                <label for="descripcion">Descripción detallada de la situación:</label>
+                <br>
+                <textarea id="descripcion" name="descripcion" rows="4" cols="50" placeholder="Escriba aquí los detalles..." required></textarea><!-- textarea crea un cuadro de texto de varias lineas -->
+                <br><br>
+            </fieldset>
+
+            <button type="submit">Enviar Reporte</button><!-- type submit envia la informacion del formulario -->
+            <button type="reset">Limpiar Formulario</button><!-- type reset borra todos los campos del formulario -->
+        </form>
+    </section>
+</main>
+
+<footer><!-- footer para el pie de pagina -->
+    <p>Prototipo Web para el Sistema de Control de Rescate y Adopción. <br>Diseño realizado con fines educativos para la asignatura Desarrollo de Sistema Informáticos * UTM * 2026.</p>
+</footer>
 
 </body>
 </html>

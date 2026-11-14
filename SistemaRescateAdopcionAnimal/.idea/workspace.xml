@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c4fec44-783f-4646-aa25-6433e1d605d5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="14" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000000000082" />
+      <entry key="S2" value="1.0019249956745484" />
+      <entry key="S5" value="1.3015653834144387" />
+      <entry key="S10" value="2.709433978747784" />
+      <entry key="S30" value="6.529324231404674" />
+      <entry key="S60" value="8.432405192006573" />
+      <entry key="M2" value="9.620107277394437" />
+      <entry key="M5" value="10.423072655662581" />
+      <entry key="M10" value="10.707204482565166" />
+      <entry key="M15" value="10.803827330961994" />
+      <entry key="M30" value="10.901422539293176" />
+      <entry key="H1" value="10.950878174787706" />
+      <entry key="H2" value="11.204162083588063" />
+      <entry key="H4" value="17.825523361034325" />
+      <entry key="D1" value="131.9676623932986" />
+      <entry key="W1" value="209.8098225811322" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="1.271053537657E-312" />
+      <entry key="M2" value="1.2320647395128474E-156" />
+      <entry key="M5" value="5.815679513120463E-63" />
+      <entry key="M10" value="1.0584736990650392E-31" />
+      <entry key="M15" value="2.9004423635666876E-21" />
+      <entry key="M30" value="9.431918836599189E-11" />
+      <entry key="H1" value="2.2179247095420052E-5" />
+      <entry key="H2" value="0.013366670872237005" />
+      <entry key="H4" value="0.3656371915945724" />
+      <entry key="D1" value="6.193880583015541" />
+      <entry key="W1" value="10.131761521700142" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8888426811665702" />
+      <entry key="MS500" value="0.9767085289623076" />
+      <entry key="S2" value="0.9960397207263677" />
+      <entry key="S5" value="1.2984999368464651" />
+      <entry key="S10" value="2.70619679865751" />
+      <entry key="S30" value="6.526676065924639" />
+      <entry key="S60" value="8.430686767409254" />
+      <entry key="M2" value="9.61912462956984" />
+      <entry key="M5" value="10.422646159788874" />
+      <entry key="M10" value="10.70698531375872" />
+      <entry key="M15" value="10.803679875727337" />
+      <entry key="M30" value="10.901348133568332" />
+      <entry key="H1" value="10.950862956800506" />
+      <entry key="H2" value="11.217502716302722" />
+      <entry key="H4" value="18.191054001241707" />
+      <entry key="D1" value="138.16128157269137" />
+      <entry key="W1" value="219.9415238900724" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KnFUkmX784cIDaqUCWd7Au81rs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/tyron/Workbench/TrabajosUni/SistemaRescateAnimal/SistemaRescateAdopcionAnimal/src/Main.java",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c4fec44-783f-4646-aa25-6433e1d605d5" name="Changes" comment="" />
+      <created>1792185450535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792185450535</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
